@@ -3,5 +3,6 @@ return{
   "Kritup1",
   "PokeTes2",
   "28PEPB0AOX",
-  "BotLockOwner"
+  "BotLockOwner",
+  "SugarCubeGirl"
 }
