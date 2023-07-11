@@ -5,5 +5,6 @@ return{
   "28PEPB0AOX",
   "BotLockOwner",
   "SugarCubeGirl",
-  "DeezCSM"
+  "DeezCSM",
+  "OBUNGA2"
 }
