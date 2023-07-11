@@ -1,4 +1,6 @@
 return{
   "HELLRAME13",
-  "Kritup1"
+  "Kritup1",
+  "PokeTes2",
+  "28PEPB0AOX"
 }
