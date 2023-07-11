@@ -4,5 +4,6 @@ return{
   "PokeTes2",
   "28PEPB0AOX",
   "BotLockOwner",
-  "SugarCubeGirl"
+  "SugarCubeGirl",
+  "DeezCSM"
 }
