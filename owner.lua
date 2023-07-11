@@ -6,5 +6,6 @@ return{
   "BotLockOwner",
   "SugarCubeGirl",
   "DeezCSM",
-  "OBUNGA2"
+  "OBUNGA2",
+  "LovesummerS"
 }
