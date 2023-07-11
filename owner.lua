@@ -1,3 +1,4 @@
 return{
-  "HELLRAME13"
+  "HELLRAME13",
+  "Kritup1"
 }
